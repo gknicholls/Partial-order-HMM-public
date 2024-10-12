@@ -1,5 +1,6 @@
 ## Partial-order-HMM-public
- R code for fitting partial order time series model set out in this paper:
+R code for fitting partial order time series model set out in this paper:
+
 ```
 @misc{nicholls2023bayesianinferencepartialorders,
       title={Bayesian inference for partial orders from random linear extensions: power relations from 12th Century Royal Acta}, 
@@ -11,4 +12,7 @@
       url={https://arxiv.org/abs/2212.05524}, 
 }
 ```
- We recommend getting in touch with the authors of you wish to use this code!
+
+The raw data is not available here yet.
+
+We recommend getting in touch with the authors of you wish to use this code!
