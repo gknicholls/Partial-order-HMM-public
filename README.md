@@ -1,4 +1,4 @@
-# Partial-order-HMM-public
+## Partial-order-HMM-public
  R code for fitting partial order time series model set out in this paper:
 ```
 @misc{nicholls2023bayesianinferencepartialorders,
