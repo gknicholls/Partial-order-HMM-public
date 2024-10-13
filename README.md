@@ -3,8 +3,10 @@ R code for fitting partial order time series model set out in this paper:
 
 ```
 @misc{nicholls2023bayesianinferencepartialorders,
-      title={Bayesian inference for partial orders from random linear extensions: power relations from 12th Century Royal Acta}, 
-      author={Geoff K. Nicholls and Jeong Eun Lee and Nicholas Karn and David Johnson and Rukuang Huang and Alexis Muir-Watt},
+      title={Bayesian inference for partial orders from random linear extensions:
+             power relations from 12th Century Royal Acta}, 
+      author={Geoff K. Nicholls and Jeong Eun Lee and Nicholas Karn and David Johnson
+              and Rukuang Huang and Alexis Muir-Watt},
       year={2023},
       eprint={2212.05524},
       archivePrefix={arXiv},
